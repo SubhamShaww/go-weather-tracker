@@ -1,0 +1,14 @@
+# executables
+*.exe
+
+.apiConfig
+
+# log files
+*.log
+
+# env files
+.env
+.env.local
+.env.development
+.env.production
+
